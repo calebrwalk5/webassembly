@@ -2,5 +2,5 @@
 
 WASM_EXPORT
 int main() {
-  return "hello";
+  return 42069;
 }
